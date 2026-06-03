@@ -1,0 +1,7 @@
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\GerenciadorDeTarefas.csproj.AssemblyReference.cache
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\gerenciador_De_Tarefas.Form1.resources
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\GerenciadorDeTarefas.csproj.GenerateResource.cache
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\GerenciadorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\GerenciadorDeTarefas.AssemblyInfo.cs
+C:\Users\JEANPAULDASILVA\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0-windows\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache

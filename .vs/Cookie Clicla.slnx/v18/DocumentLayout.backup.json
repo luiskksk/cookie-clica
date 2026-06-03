@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5824C60C-36DB-25CB-1CEA-9479E6235613}|Cookie Clicla\\Cookie Clicla.csproj|c:\\users\\luishenriquemorgenst\\source\\repos\\cookie-clica\\cookie clicla\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5824C60C-36DB-25CB-1CEA-9479E6235613}|Cookie Clicla\\Cookie Clicla.csproj|solutionrelative:cookie clicla\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824C60C-36DB-25CB-1CEA-9479E6235613}|Cookie Clicla\\Cookie Clicla.csproj|c:\\users\\luishenriquemorgenst\\source\\repos\\cookie-clica\\cookie clicla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5824C60C-36DB-25CB-1CEA-9479E6235613}|Cookie Clicla\\Cookie Clicla.csproj|solutionrelative:cookie clicla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824C60C-36DB-25CB-1CEA-9479E6235613}|Cookie Clicla\\Cookie Clicla.csproj|c:\\users\\luishenriquemorgenst\\source\\repos\\cookie-clica\\cookie clicla\\cookie clicla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5824C60C-36DB-25CB-1CEA-9479E6235613}|Cookie Clicla\\Cookie Clicla.csproj|solutionrelative:cookie clicla\\cookie clicla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Form1.cs",
+              "RelativeDocumentMoniker": "Cookie Clicla\\Form1.cs",
+              "ToolTip": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Cookie Clicla\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:12:18.958Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Login.cs",
+              "RelativeDocumentMoniker": "Cookie Clicla\\Login.cs",
+              "ToolTip": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Login.cs [Projeto]",
+              "RelativeToolTip": "Cookie Clicla\\Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:12:11.684Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cookie Clicla.csproj",
+              "DocumentMoniker": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj",
+              "RelativeDocumentMoniker": "Cookie Clicla\\Cookie Clicla.csproj",
+              "ToolTip": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj",
+              "RelativeToolTip": "Cookie Clicla\\Cookie Clicla.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T18:11:51.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

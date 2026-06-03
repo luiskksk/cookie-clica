@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7en/BLEW5M=",
+  "dgSpecHash": "akGx9+XLS10=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\Cookie Clicla\\Cookie Clicla\\Cookie Clicla.csproj",
+  "projectFilePath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUISHENRIQUEMORGENST\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\LUISHENRIQUEMORGENST\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",

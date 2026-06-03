@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\Cookie Clicla\\Cookie Clicla\\Cookie Clicla.csproj": {}
+    "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\Cookie Clicla\\Cookie Clicla\\Cookie Clicla.csproj": {
+    "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\Cookie Clicla\\Cookie Clicla\\Cookie Clicla.csproj",
+        "projectUniqueName": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj",
         "projectName": "Cookie Clicla",
-        "projectPath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\Cookie Clicla\\Cookie Clicla\\Cookie Clicla.csproj",
+        "projectPath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\Cookie Clicla.csproj",
         "packagesPath": "C:\\Users\\LUISHENRIQUEMORGENST\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\Cookie Clicla\\Cookie Clicla\\obj\\",
+        "outputPath": "C:\\Users\\LUISHENRIQUEMORGENST\\source\\repos\\cookie-clica\\Cookie Clicla\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,8 +30,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0-windows": {
-            "framework": "net10.0-windows7.0",
+          "net10.0-windows7.0": {
             "targetAlias": "net10.0-windows",
             "projectReferences": {}
           }
@@ -46,11 +45,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net10.0-windows": {
-          "framework": "net10.0-windows7.0",
+        "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "dependencies": {
             "BCrypt.Net-Next": {
@@ -81,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
