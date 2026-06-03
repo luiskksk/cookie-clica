@@ -1,0 +1,32 @@
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\Cookie Clicla.exe
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\Cookie Clicla.deps.json
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\Cookie Clicla.runtimeconfig.json
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\Cookie Clicla.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\Cookie Clicla.pdb
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie_Clicla.Form1.resources
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.csproj.GenerateResource.cache
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.AssemblyInfoInputs.cache
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.AssemblyInfo.cs
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.csproj.CoreCompileInputs.cache
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\refint\Cookie Clicla.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.pdb
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.genruntimeconfig.cache
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\ref\Cookie Clicla.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\BCrypt-Net-Next.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie Clicla.csproj.AssemblyReference.cache
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie C.C271F5CA.Up2Date
+C:\Users\LUISHENRIQUEMORGENST\source\repos\Cookie Clicla\Cookie Clicla\obj\Debug\net10.0-windows\Cookie_Clicla.Properties.Resources.resources
